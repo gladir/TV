@@ -3,7 +3,9 @@ Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de visual
 
 <h3>Syntaxe</h3>
 
-Syntaxe : TV fichier.CSV [-D caractere] [-DV nombre] [-LINES nombre]
+<code>
+TV fichier.CSV [-D caractere] [-DV nombre] [-LINES nombre]
+</code>
 
 <h3>Paramètres</h3>
 
