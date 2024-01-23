@@ -4,7 +4,7 @@ Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de visual
 <h3>Syntaxe</h3>
 
 <code>
-TV fichier.CSV [-D caractere] [-DV nombre] [-LINES nombre]
+TV fichier.CSV [-D caractere] [-DV nombre] [-LINES nombre] [-VGA]
 </code>
 
 <h3>Paramètres</h3>
